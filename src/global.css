@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-text: "SF Pro Text";
+  --font-inria-serif: "Inria Serif";
+  --font-jacques-francois: "Jacques Francois";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-11xl: 30px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkorchid: #8e33bb;
+  --color-darkgray-100: #b2afaf;
+  --color-thistle: #e2cbf3;
+  --color-gainsboro-100: #ddd;
+  --color-gainsboro-200: #d9d9d9;
+  --color-mediumorchid-100: #8e3bb5;
+  --color-turquoise-100: #3ee5c7;
+
+  /* Border radiuses */
+  --br-11xs-3: 1.3px;
+  --br-10xs-7: 2.7px;
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+}

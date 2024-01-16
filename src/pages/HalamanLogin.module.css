@@ -1,0 +1,185 @@
+.halamanLoginChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-mediumorchid-100);
+  width: 360px;
+  height: 280px;
+}
+.signIn {
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 145px;
+  height: 36px;
+}
+.groupChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-white);
+  width: 292px;
+  height: 419px;
+}
+.password {
+  position: absolute;
+  top: 0px;
+  left: 2.9px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 257.1px;
+  height: 28px;
+}
+.groupItem {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 260px;
+  height: 46px;
+}
+.passwordParent {
+  position: absolute;
+  top: 108px;
+  left: 16px;
+  width: 260px;
+  height: 74px;
+}
+.teleponAtauEmailParent {
+  position: absolute;
+  top: 17px;
+  left: 16px;
+  width: 260px;
+  height: 74px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumorchid-100);
+  width: 240px;
+  height: 49px;
+}
+.masuk {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 243px;
+  height: 49px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 233px;
+  left: 24px;
+  width: 243px;
+  height: 49px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.lupaPassword {
+  position: absolute;
+  top: 322px;
+  left: 30px;
+  display: flex;
+  color: var(--color-mediumorchid-100);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 237px;
+  height: 34px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 118px;
+  left: 34px;
+  width: 292px;
+  height: 419px;
+  text-align: left;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 287px;
+  height: 52px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 46.54%;
+  width: 8.29%;
+  top: 26.92%;
+  right: 85.44%;
+  bottom: 26.54%;
+  left: 6.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.masukDenganGoogle {
+  position: absolute;
+  top: 0px;
+  left: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 207px;
+  height: 52px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 570px;
+  left: 39px;
+  width: 287px;
+  height: 52px;
+}
+.daftar {
+  color: var(--color-mediumorchid-100);
+}
+.belumMemilikiAkunContainer1 {
+  width: 100%;
+}
+.belumMemilikiAkunContainer {
+  position: absolute;
+  top: 647px;
+  left: 35px;
+  display: flex;
+  align-items: center;
+  width: 291px;
+  height: 56px;
+}
+.undrawSignInReO58h1Icon {
+  position: absolute;
+  top: 35px;
+  left: 240px;
+  width: 80px;
+  height: 60px;
+  overflow: hidden;
+}
+.halamanLogin {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
